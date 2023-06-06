@@ -20,25 +20,25 @@ Berikut adalah langkah-langkah untuk menjalankan proyek ini di lingkungan lokal 
 1. Clone repository ini ke dalam direktori lokal:
 
    ```bash
-   $ git clone https://github.com/Alfathull/next-film.git
+   git clone https://github.com/Alfathull/next-film.git
    ```
 
 2. Masuk ke direktori proyek:
 
    ```bash
-   $ cd next-film
+   cd next-film
    ```
 
 3. Install dependensi proyek:
 
    ```bash
-   $ npm install
+   npm install
    ```
 
 4. Jalankan proyek:
 
    ```bash
-   $ npm start
+   npm start
    ```
 
 5. Buka browser dan akses **http://localhost:3000** untuk melihat proyek Next Film yang sedang berjalan.
