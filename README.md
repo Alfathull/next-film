@@ -44,6 +44,6 @@ Berikut adalah langkah-langkah untuk menjalankan proyek ini di lingkungan lokal 
 5. Buka browser dan akses **http://localhost:3000** untuk melihat proyek Next Film yang sedang berjalan.
 
 
-Pastikan Anda memiliki koneksi internet yang stabil karena proyek ini mengambil data film secara real-time melalui API TMDb.
+Pastikan Anda memiliki koneksi internet yang stabil karena proyek ini mengambil data film secara real-time melalui API OMDb.
 
 Selamat menjelajahi film-film yang menarik dalam proyek Next Film!
