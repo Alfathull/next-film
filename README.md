@@ -1,39 +1,54 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+QFilm
+QFilm adalah proyek aplikasi web yang memuat daftar film-film terbaru dan populer. Dalam proyek ini, Anda dapat menelusuri daftar film, mencari film berdasarkan judul, serta melihat detail lengkap dari setiap film yang tersedia.
 
-## Getting Started
+Fitur yang disediakan:
 
-First, run the development server:
+Daftar Film: Tampilkan daftar film terbaru dan populer dengan informasi ringkas seperti judul, gambar poster, dan peringkat.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Pencarian: Cari film berdasarkan judul dengan menggunakan fitur pencarian yang disediakan. Anda dapat mencari film berdasarkan kata kunci tertentu dan melihat hasil yang sesuai dengan kriteria pencarian.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Detail Film: Ketika Anda mengklik pada film tertentu, Anda dapat melihat detail lengkap film tersebut. Informasi yang ditampilkan mencakup sinopsis, sutradara, genre, tanggal rilis, dan pemain utama.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Proyek ini menggunakan teknologi dan alat-alat berikut:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Bahasa Pemrograman: JavaScript
+Framework: React.js
+API Data Film: TMDb API
+Cara Menjalankan Proyek
+Berikut adalah langkah-langkah untuk menjalankan proyek ini di lingkungan lokal Anda:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Berikut adalah langkah-langkah untuk menjalankan proyek ini di lingkungan lokal Anda:
 
-## Learn More
+1. Clone repository ini ke dalam direktori lokal:
 
-To learn more about Next.js, take a look at the following resources:
+   \```bash
+   $ git clone https://github.com/Alfathull/next-film.git
+   \```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. Masuk ke direktori proyek:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+   \```bash
+   $ cd next-film
+   \```
 
-## Deploy on Vercel
+3. Install dependensi proyek:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   \```bash
+   $ npm install
+   \```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-=======
-# next-film
-Memuat banyak film
+4. Jalankan proyek:
+
+   \```bash
+   $ npm start
+   \```
+
+5. Buka browser dan akses `http://localhost:3000` untuk melihat proyek Next Film yang sedang berjalan.
+
+
+Pastikan Anda memiliki koneksi internet yang stabil karena proyek ini mengambil data film secara real-time melalui API TMDb.
+
+Selamat menjelajahi film-film yang menarik dalam proyek Next Film!
+
+Silakan sesuaikan deskripsi ini sesuai dengan kebutuhan Anda dan pastikan untuk menyertakan informasi yang relevan dengan proyek Anda.
 >>>>>>> 7bf58addf20d5a6b9c3fd7fa6e9852e660dee608
